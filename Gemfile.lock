@@ -226,7 +226,7 @@ DEPENDENCIES
   bootstrap-will_paginate
   byebug
   capybara (>= 2.15)
-  carrierwave
+  carrierwave (~> 2.0)
   chromedriver-helper
   coffee-rails (~> 4.2)
   faker
