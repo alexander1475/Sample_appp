@@ -44,7 +44,7 @@ gem 'faker'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'mini_magick'
 
 group :development, :test do
